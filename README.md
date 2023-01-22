@@ -1,7 +1,9 @@
 # devops
 Projetos DevOps Automação
-Aplicação em Python
+Aplicação em Pytho
 
 
-versao_1.0
+
+
+versao_1.1
 _by Warleirf_
